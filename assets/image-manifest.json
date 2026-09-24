@@ -1,0 +1,4412 @@
+{
+  "assets/meilixiuxing-annual/榜单页悬浮窗@3x.png": {
+    "original": 1065674,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 139888
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71400
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71400
+    }
+  },
+  "assets/meilixiuxing-annual/900_383微信文章封面.png": {
+    "original": 167412,
+    ".webp": {
+      "width": 900,
+      "height": 383,
+      "bytes": 45874
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 272,
+      "bytes": 26274
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 272,
+      "bytes": 26274
+    }
+  },
+  "assets/meilixiuxing-annual/弹窗.png": {
+    "original": 118620,
+    ".webp": {
+      "width": 234,
+      "height": 310,
+      "bytes": 9762
+    },
+    ".small.webp": {
+      "width": 234,
+      "height": 310,
+      "bytes": 9762
+    },
+    ".preview.webp": {
+      "width": 234,
+      "height": 310,
+      "bytes": 9762
+    }
+  },
+  "assets/meilixiuxing-annual/导语.png": {
+    "original": 1910188,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 130192
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 76384
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 76384
+    }
+  },
+  "assets/meilixiuxing-annual/悬浮窗.png": {
+    "original": 254657,
+    ".webp": {
+      "width": 470,
+      "height": 470,
+      "bytes": 37632
+    },
+    ".small.webp": {
+      "width": 470,
+      "height": 470,
+      "bytes": 37632
+    },
+    ".preview.webp": {
+      "width": 470,
+      "height": 470,
+      "bytes": 37632
+    }
+  },
+  "assets/meilixiuxing-annual/2023榜单logo.png": {
+    "original": 170755,
+    ".webp": {
+      "width": 500,
+      "height": 500,
+      "bytes": 21524
+    },
+    ".small.webp": {
+      "width": 500,
+      "height": 500,
+      "bytes": 21524
+    },
+    ".preview.webp": {
+      "width": 500,
+      "height": 500,
+      "bytes": 21524
+    }
+  },
+  "assets/meilixiuxing-annual/美修盒心选榜滑动.png": {
+    "original": 1796279,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 118000
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 86788
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 86788
+    }
+  },
+  "assets/meilixiuxing-annual/微博点评长图点评长图-拷贝-3.png": {
+    "original": 599852,
+    ".webp": {
+      "width": 750,
+      "height": 2373,
+      "bytes": 203312
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 2025,
+      "bytes": 160024
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 2025,
+      "bytes": 160024
+    }
+  },
+  "assets/meilixiuxing-annual/美修盒心选榜.png": {
+    "original": 2629203,
+    ".webp": {
+      "width": 750,
+      "height": 4880,
+      "bytes": 295148
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4164,
+      "bytes": 232950
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4164,
+      "bytes": 232950
+    }
+  },
+  "assets/meilixiuxing-annual/活动热区.png": {
+    "original": 28543,
+    ".webp": {
+      "width": 351,
+      "height": 100,
+      "bytes": 4944
+    },
+    ".small.webp": {
+      "width": 351,
+      "height": 100,
+      "bytes": 4944
+    },
+    ".preview.webp": {
+      "width": 351,
+      "height": 100,
+      "bytes": 4944
+    }
+  },
+  "assets/meilixiuxing-annual/新锐势力榜.png": {
+    "original": 1700181,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 133898
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 101126
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 101126
+    }
+  },
+  "assets/meilixiuxing-annual/弹窗@2x.png": {
+    "original": 807532,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 67142
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 54794
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 54794
+    }
+  },
+  "assets/meilixiuxing-annual/方图.png": {
+    "original": 106334,
+    ".webp": {
+      "width": 440,
+      "height": 440,
+      "bytes": 40332
+    },
+    ".small.webp": {
+      "width": 440,
+      "height": 440,
+      "bytes": 40332
+    },
+    ".preview.webp": {
+      "width": 440,
+      "height": 440,
+      "bytes": 40332
+    }
+  },
+  "assets/meilixiuxing-annual/推荐理由.png": {
+    "original": 1450921,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 90382
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68430
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68430
+    }
+  },
+  "assets/meilixiuxing-annual/榜单页悬浮窗滑动收起@3x.png": {
+    "original": 1036783,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 136770
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 69956
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 69956
+    }
+  },
+  "assets/meilixiuxing-annual/信息流banner.png": {
+    "original": 516891,
+    ".webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 35874
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 35874
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 35874
+    }
+  },
+  "assets/meilixiuxing-annual/瓷片区瓷片区.png": {
+    "original": 83350,
+    ".webp": {
+      "width": 534,
+      "height": 348,
+      "bytes": 14312
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 348,
+      "bytes": 14312
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 348,
+      "bytes": 14312
+    }
+  },
+  "assets/meilixiuxing-annual/分享.png": {
+    "original": 1292200,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 85802
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68986
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68986
+    }
+  },
+  "assets/meilixiuxing-annual/规则弹窗.png": {
+    "original": 986425,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 94612
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 73402
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 73402
+    }
+  },
+  "assets/meilixiuxing-annual/2023年度榜单资源位开屏.png": {
+    "original": 490166,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 131184
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 98046
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 98046
+    }
+  },
+  "assets/meilixiuxing-annual/生活疗愈榜.png": {
+    "original": 1704750,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 140698
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 102486
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 102486
+    }
+  },
+  "assets/meilixiuxing-annual/站内信.png": {
+    "original": 221272,
+    ".webp": {
+      "width": 1080,
+      "height": 440,
+      "bytes": 65748
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 26764
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 26764
+    }
+  },
+  "assets/meilixiuxing-annual/宝妈安心榜.png": {
+    "original": 1705482,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 140664
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 103564
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 103564
+    }
+  },
+  "assets/meilixiuxing-annual/首页.png": {
+    "original": 2229524,
+    ".webp": {
+      "width": 750,
+      "height": 2026,
+      "bytes": 167074
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1729,
+      "bytes": 106258
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1729,
+      "bytes": 106258
+    }
+  },
+  "assets/meilixiuxing-annual/单个分享图.png": {
+    "original": 1553139,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 68588
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55050
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55050
+    }
+  },
+  "assets/meilixiuxing-annual/精致妆容榜.png": {
+    "original": 1709598,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 142598
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 104314
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 104314
+    }
+  },
+  "assets/kk-keyboard-ip/concept-sketch.png": {
+    "original": 576034,
+    ".webp": {
+      "width": 1440,
+      "height": 1229,
+      "bytes": 47542
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 546,
+      "bytes": 18628
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 546,
+      "bytes": 18628
+    }
+  },
+  "assets/kk-keyboard-ip/line-art.png": {
+    "original": 551286,
+    ".webp": {
+      "width": 1440,
+      "height": 1156,
+      "bytes": 71992
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 26092
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 26092
+    }
+  },
+  "assets/kk-keyboard-ip/first-draft.png": {
+    "original": 844866,
+    ".webp": {
+      "width": 1440,
+      "height": 1238,
+      "bytes": 82090
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 550,
+      "bytes": 30230
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 550,
+      "bytes": 30230
+    }
+  },
+  "assets/kk-keyboard-ip/monochrome.png": {
+    "original": 867346,
+    ".webp": {
+      "width": 1440,
+      "height": 1157,
+      "bytes": 79086
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 27396
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 27396
+    }
+  },
+  "assets/kk-keyboard-ip/side-view.png": {
+    "original": 299985,
+    ".webp": {
+      "width": 1219,
+      "height": 1464,
+      "bytes": 42502
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 769,
+      "bytes": 20094
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 769,
+      "bytes": 20094
+    }
+  },
+  "assets/kk-keyboard-ip/outlined.png": {
+    "original": 987339,
+    ".webp": {
+      "width": 1440,
+      "height": 1156,
+      "bytes": 81022
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 29118
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 29118
+    }
+  },
+  "assets/kk-keyboard-ip/front-view.png": {
+    "original": 954503,
+    ".webp": {
+      "width": 1440,
+      "height": 1156,
+      "bytes": 80150
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 28738
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 28738
+    }
+  },
+  "assets/kk-keyboard-ip/front-view-final.png": {
+    "original": 971613,
+    ".webp": {
+      "width": 1440,
+      "height": 1156,
+      "bytes": 79968
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 28674
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 28674
+    }
+  },
+  "assets/kk-keyboard-ip/back-view.png": {
+    "original": 391910,
+    ".webp": {
+      "width": 1440,
+      "height": 1156,
+      "bytes": 55392
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 19588
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 514,
+      "bytes": 19588
+    }
+  },
+  "assets/weshine-anniversary/ip-collection-mark.png": {
+    "original": 2227702,
+    ".webp": {
+      "width": 1440,
+      "height": 1738,
+      "bytes": 289898
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 772,
+      "bytes": 98114
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 772,
+      "bytes": 98114
+    }
+  },
+  "assets/weshine-anniversary/anniversary-3d.png": {
+    "original": 6626818,
+    ".webp": {
+      "width": 1440,
+      "height": 2614,
+      "bytes": 220526
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1162,
+      "bytes": 72030
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1162,
+      "bytes": 72030
+    }
+  },
+  "assets/weshine-anniversary/ip-collection.png": {
+    "original": 4605578,
+    ".webp": {
+      "width": 1440,
+      "height": 1002,
+      "bytes": 143774
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 446,
+      "bytes": 56334
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 446,
+      "bytes": 56334
+    }
+  },
+  "assets/weshine-anniversary/anniversary-illustration.png": {
+    "original": 9202379,
+    ".webp": {
+      "width": 1440,
+      "height": 845,
+      "bytes": 126098
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 376,
+      "bytes": 46614
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 376,
+      "bytes": 46614
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/broadcast-image.png": {
+    "original": 256845,
+    ".webp": {
+      "width": 1125,
+      "height": 1125,
+      "bytes": 64394
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 35670
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 35670
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/activity-title-card.png": {
+    "original": 132852,
+    ".webp": {
+      "width": 1125,
+      "height": 855,
+      "bytes": 29754
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 486,
+      "bytes": 16834
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 486,
+      "bytes": 16834
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/article-header.png": {
+    "original": 142304,
+    ".webp": {
+      "width": 1125,
+      "height": 660,
+      "bytes": 44244
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 375,
+      "bytes": 23058
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 375,
+      "bytes": 23058
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/inbox-banner.png": {
+    "original": 98260,
+    ".webp": {
+      "width": 1080,
+      "height": 440,
+      "bytes": 38778
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 20934
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 20934
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/long-article.png": {
+    "original": 562988,
+    ".webp": {
+      "width": 1125,
+      "height": 7392,
+      "bytes": 508498
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4205,
+      "bytes": 264104
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4205,
+      "bytes": 264104
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/planet-header.png": {
+    "original": 160233,
+    ".webp": {
+      "width": 1125,
+      "height": 843,
+      "bytes": 46322
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 480,
+      "bytes": 24160
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 480,
+      "bytes": 24160
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/home-activity-card.png": {
+    "original": 66840,
+    ".webp": {
+      "width": 702,
+      "height": 200,
+      "bytes": 13622
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 182,
+      "bytes": 12370
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 182,
+      "bytes": 12370
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/splash-screen.png": {
+    "original": 413515,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 109124
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55472
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55472
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/topic-cover.png": {
+    "original": 283450,
+    ".webp": {
+      "width": 1125,
+      "height": 1125,
+      "bytes": 62512
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 31726
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 31726
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/feed-banner.png": {
+    "original": 123947,
+    ".webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 42998
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 42998
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 42998
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/home-profile-banner.png": {
+    "original": 21369,
+    ".webp": {
+      "width": 710,
+      "height": 132,
+      "bytes": 13948
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 12630
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 12630
+    }
+  },
+  "assets/meilixiuxing-b5-challenge/profile-banner.png": {
+    "original": 21333,
+    ".webp": {
+      "width": 710,
+      "height": 132,
+      "bytes": 14048
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 12594
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 12594
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划【共创日历】配图.png": {
+    "original": 265385,
+    ".webp": {
+      "width": 993,
+      "height": 744,
+      "bytes": 157560
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 480,
+      "bytes": 84662
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 480,
+      "bytes": 84662
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划个人中心banner.png": {
+    "original": 44948,
+    ".webp": {
+      "width": 710,
+      "height": 132,
+      "bytes": 18998
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 16618
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 119,
+      "bytes": 16618
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划站内信.png": {
+    "original": 184700,
+    ".webp": {
+      "width": 1080,
+      "height": 440,
+      "bytes": 109972
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 49312
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 49312
+    }
+  },
+  "assets/meilixiuxing-scent-partners/开屏.png": {
+    "original": 2749900,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 216188
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 98000
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 98000
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划开屏.png": {
+    "original": 847378,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 467426
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 197834
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 197834
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划【星际广播】配图.png": {
+    "original": 144907,
+    ".webp": {
+      "width": 600,
+      "height": 600,
+      "bytes": 89218
+    },
+    ".small.webp": {
+      "width": 600,
+      "height": 600,
+      "bytes": 89218
+    },
+    ".preview.webp": {
+      "width": 600,
+      "height": 600,
+      "bytes": 89218
+    }
+  },
+  "assets/meilixiuxing-scent-partners/闻香合伙人招募计划信息流banner.png": {
+    "original": 157486,
+    ".webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 102774
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 102774
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 102774
+    }
+  },
+  "assets/shanqu-business-card/card-front.png": {
+    "original": 190527,
+    ".webp": {
+      "width": 1440,
+      "height": 823,
+      "bytes": 18420
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 366,
+      "bytes": 5654
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 366,
+      "bytes": 5654
+    }
+  },
+  "assets/shanqu-business-card/card-back.png": {
+    "original": 157936,
+    ".webp": {
+      "width": 1440,
+      "height": 823,
+      "bytes": 23126
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 366,
+      "bytes": 7072
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 366,
+      "bytes": 7072
+    }
+  },
+  "assets/alipay-egg/egg-code.png": {
+    "original": 4022121,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 119202
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 43654
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 43654
+    }
+  },
+  "assets/alipay-egg/egg-concept.png": {
+    "original": 3922476,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 122844
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 44954
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 44954
+    }
+  },
+  "assets/meilixiuxing-skin-personality/screen-01-entry.png": {
+    "original": 17371816,
+    ".webp": {
+      "width": 1440,
+      "height": 3017,
+      "bytes": 205128
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1341,
+      "bytes": 92142
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1341,
+      "bytes": 92142
+    }
+  },
+  "assets/meilixiuxing-skin-personality/screen-03-question-loading.png": {
+    "original": 2388120,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 62274
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 23842
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 23842
+    }
+  },
+  "assets/meilixiuxing-skin-personality/illustration-mirror.png": {
+    "original": 1685716,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 83984
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 30230
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 30230
+    }
+  },
+  "assets/meilixiuxing-skin-personality/result-istp-share.png": {
+    "original": 6134623,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 151036
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 59726
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 59726
+    }
+  },
+  "assets/meilixiuxing-skin-personality/result-entp.png": {
+    "original": 6220454,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 179596
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 62592
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 62592
+    }
+  },
+  "assets/meilixiuxing-skin-personality/result-intp.png": {
+    "original": 6252254,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 171806
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 61210
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 61210
+    }
+  },
+  "assets/meilixiuxing-skin-personality/illustration-care.png": {
+    "original": 1241235,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 68268
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 24036
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 24036
+    }
+  },
+  "assets/meilixiuxing-skin-personality/screen-05-question-8.png": {
+    "original": 4577757,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 134586
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 54302
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 54302
+    }
+  },
+  "assets/meilixiuxing-skin-personality/resource-entry.png": {
+    "original": 8877852,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 206636
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 92200
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 92200
+    }
+  },
+  "assets/meilixiuxing-skin-personality/screen-04-question-1.png": {
+    "original": 4739310,
+    ".webp": {
+      "width": 1440,
+      "height": 3129,
+      "bytes": 127052
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1391,
+      "bytes": 51314
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1391,
+      "bytes": 51314
+    }
+  },
+  "assets/meilixiuxing-skin-personality/resource-newyear.png": {
+    "original": 11757335,
+    ".webp": {
+      "width": 1440,
+      "height": 1791,
+      "bytes": 207818
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 796,
+      "bytes": 76334
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 796,
+      "bytes": 76334
+    }
+  },
+  "assets/meilixiuxing-skin-personality/screen-02-intro-loading.png": {
+    "original": 10049820,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 266464
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 96488
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 96488
+    }
+  },
+  "assets/meilixiuxing-skin-personality/result-intj.png": {
+    "original": 6395475,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 185632
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 65436
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 65436
+    }
+  },
+  "assets/meilixiuxing-skin-personality/result-entj.png": {
+    "original": 6313334,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 182378
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 62964
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 62964
+    }
+  },
+  "assets/meilixiuxing-skin-personality/resource-landing.png": {
+    "original": 10193209,
+    ".webp": {
+      "width": 1440,
+      "height": 1791,
+      "bytes": 211036
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 796,
+      "bytes": 77712
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 796,
+      "bytes": 77712
+    }
+  },
+  "assets/meilixiuxing-skin-personality/illustration-scooter.png": {
+    "original": 1543376,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 84010
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 30644
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 30644
+    }
+  },
+  "assets/meilixiuxing-routine/skin-catalog.png": {
+    "original": 7112485,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 160592
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 59530
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 59530
+    }
+  },
+  "assets/meilixiuxing-routine/selection-detail.png": {
+    "original": 2045224,
+    ".webp": {
+      "width": 1440,
+      "height": 2049,
+      "bytes": 107562
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 910,
+      "bytes": 39850
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 910,
+      "bytes": 39850
+    }
+  },
+  "assets/meilixiuxing-routine/reward-receipt.png": {
+    "original": 3470056,
+    ".webp": {
+      "width": 1440,
+      "height": 2127,
+      "bytes": 105252
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 945,
+      "bytes": 40550
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 945,
+      "bytes": 40550
+    }
+  },
+  "assets/meilixiuxing-routine/unlock-confirmation.png": {
+    "original": 2901575,
+    ".webp": {
+      "width": 1440,
+      "height": 2049,
+      "bytes": 95192
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 910,
+      "bytes": 35214
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 910,
+      "bytes": 35214
+    }
+  },
+  "assets/meilixiuxing-routine/campaign-resource.png": {
+    "original": 9640476,
+    ".webp": {
+      "width": 1440,
+      "height": 3117,
+      "bytes": 137610
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1385,
+      "bytes": 50962
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1385,
+      "bytes": 50962
+    }
+  },
+  "assets/meilixiuxing-routine/result-feedback.png": {
+    "original": 4804974,
+    ".webp": {
+      "width": 1440,
+      "height": 3119,
+      "bytes": 115782
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 41854
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 41854
+    }
+  },
+  "assets/meilixiuxing-routine/opening-loading.png": {
+    "original": 3050260,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 75508
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 27048
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 27048
+    }
+  },
+  "assets/meilixiuxing-routine/routine-home.png": {
+    "original": 7126071,
+    ".webp": {
+      "width": 1440,
+      "height": 3125,
+      "bytes": 160164
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 58522
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1389,
+      "bytes": 58522
+    }
+  },
+  "assets/meilixiuxing-routine/task-panel.png": {
+    "original": 6345610,
+    ".webp": {
+      "width": 1440,
+      "height": 3129,
+      "bytes": 164258
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1391,
+      "bytes": 61456
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1391,
+      "bytes": 61456
+    }
+  },
+  "assets/oatly-earth/packaging-mockup.png": {
+    "original": 4836131,
+    ".webp": {
+      "width": 1440,
+      "height": 1015,
+      "bytes": 76934
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 451,
+      "bytes": 29078
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 451,
+      "bytes": 29078
+    }
+  },
+  "assets/oatly-earth/earth-plan-wordmark.png": {
+    "original": 60090,
+    ".webp": {
+      "width": 915,
+      "height": 675,
+      "bytes": 21124
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 472,
+      "bytes": 37226
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 472,
+      "bytes": 37226
+    }
+  },
+  "assets/oatly-earth/earth-plan-label.png": {
+    "original": 7808795,
+    ".webp": {
+      "width": 1440,
+      "height": 2562,
+      "bytes": 288408
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1138,
+      "bytes": 102736
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1138,
+      "bytes": 102736
+    }
+  },
+  "assets/oatly-earth/oatly-can-design.png": {
+    "original": 3118426,
+    ".webp": {
+      "width": 1440,
+      "height": 1662,
+      "bytes": 66502
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 739,
+      "bytes": 26284
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 739,
+      "bytes": 26284
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-space.png": {
+    "original": 4316384,
+    ".webp": {
+      "width": 1440,
+      "height": 1465,
+      "bytes": 335290
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 651,
+      "bytes": 102236
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 651,
+      "bytes": 102236
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-sparkle.png": {
+    "original": 3498293,
+    ".webp": {
+      "width": 1440,
+      "height": 1860,
+      "bytes": 282682
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 827,
+      "bytes": 85018
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 827,
+      "bytes": 85018
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-star.png": {
+    "original": 2685730,
+    ".webp": {
+      "width": 1440,
+      "height": 1494,
+      "bytes": 215050
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 664,
+      "bytes": 65900
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 664,
+      "bytes": 65900
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-gamer.png": {
+    "original": 3974377,
+    ".webp": {
+      "width": 1440,
+      "height": 1419,
+      "bytes": 253000
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 631,
+      "bytes": 81334
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 631,
+      "bytes": 81334
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-astronaut.png": {
+    "original": 2771487,
+    ".webp": {
+      "width": 1440,
+      "height": 1597,
+      "bytes": 170992
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 710,
+      "bytes": 58266
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 710,
+      "bytes": 58266
+    }
+  },
+  "assets/changqingten/xiaoxiao-chang-garden.png": {
+    "original": 2759214,
+    ".webp": {
+      "width": 1440,
+      "height": 1622,
+      "bytes": 204260
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 721,
+      "bytes": 62338
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 721,
+      "bytes": 62338
+    }
+  },
+  "assets/changqingten-huawei/zero-sale.png": {
+    "original": 594168,
+    ".webp": {
+      "width": 705,
+      "height": 710,
+      "bytes": 50642
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 645,
+      "bytes": 45448
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 645,
+      "bytes": 45448
+    }
+  },
+  "assets/changqingten-huawei/huawei-banner.png": {
+    "original": 3280371,
+    ".webp": {
+      "width": 1440,
+      "height": 502,
+      "bytes": 57726
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 223,
+      "bytes": 23920
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 223,
+      "bytes": 23920
+    }
+  },
+  "assets/changqingten-huawei/home.png": {
+    "original": 4962487,
+    ".webp": {
+      "width": 1440,
+      "height": 3232,
+      "bytes": 224918
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1436,
+      "bytes": 83450
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1436,
+      "bytes": 83450
+    }
+  },
+  "assets/changqingten-huawei/draw-page.png": {
+    "original": 5016313,
+    ".webp": {
+      "width": 1440,
+      "height": 4039,
+      "bytes": 240342
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1795,
+      "bytes": 91382
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1795,
+      "bytes": 91382
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/吸顶.png": {
+    "original": 603984,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 84412
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68908
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68908
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/榜单.png": {
+    "original": 3525388,
+    ".webp": {
+      "width": 750,
+      "height": 6494,
+      "bytes": 256920
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 5542,
+      "bytes": 211830
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 5542,
+      "bytes": 211830
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/比心弹窗.png": {
+    "original": 656238,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 57312
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48064
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48064
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/比心弹窗 3.png": {
+    "original": 655711,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 57232
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 47964
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 47964
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/吸顶 2.png": {
+    "original": 698755,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 91222
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 76334
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 76334
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/比心弹窗 2.png": {
+    "original": 655841,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 57400
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48146
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48146
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/抽中奖品.png": {
+    "original": 781995,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 67798
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55946
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55946
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/投票开始.png": {
+    "original": 867794,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 90670
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 74132
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 74132
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/抽奖弹窗.png": {
+    "original": 780394,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 67346
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55790
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 55790
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/我的奖品.png": {
+    "original": 151328,
+    ".webp": {
+      "width": 750,
+      "height": 1822,
+      "bytes": 38494
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1555,
+      "bytes": 31200
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1555,
+      "bytes": 31200
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/榜单@2x.png": {
+    "original": 3525388,
+    ".webp": {
+      "width": 750,
+      "height": 6494,
+      "bytes": 256920
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 5542,
+      "bytes": 211830
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 5542,
+      "bytes": 211830
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/toast 2.png": {
+    "original": 654057,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 84466
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 70668
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 70668
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/虚拟奖品弹窗.png": {
+    "original": 645161,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 55276
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 45156
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 45156
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/排行榜滑动.png": {
+    "original": 437559,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 41598
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 33702
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 33702
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/我的奖品缺省.png": {
+    "original": 52761,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 7638
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 6350
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 6350
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/榜单公布.png": {
+    "original": 843662,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 84632
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68614
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68614
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/活动未开始.png": {
+    "original": 610204,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 45038
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 36226
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 36226
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/你没有心.png": {
+    "original": 659655,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 58578
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48172
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 48172
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/投票结束.png": {
+    "original": 846802,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 85984
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 69744
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 69744
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/任务.png": {
+    "original": 582318,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 53166
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 43586
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 43586
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/首页.png": {
+    "original": 1515832,
+    ".webp": {
+      "width": 750,
+      "height": 3280,
+      "bytes": 174224
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 2799,
+      "bytes": 143090
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 2799,
+      "bytes": 143090
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/虚拟奖品弹窗备份 2.png": {
+    "original": 655387,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 56888
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 47032
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 47032
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/排行榜.png": {
+    "original": 428200,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 41972
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 34802
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 34802
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/获得抽奖券弹窗.png": {
+    "original": 639696,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 54338
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 45652
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 45652
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/Top3 奖品弹窗.png": {
+    "original": 674593,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 59234
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 49448
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 49448
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/toast.png": {
+    "original": 653483,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 85358
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71606
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71606
+    }
+  },
+  "assets/meilixiuxing-1111-ranking/虚拟奖品弹窗备份.png": {
+    "original": 651745,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 54798
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 46116
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 46116
+    }
+  },
+  "assets/meilixiuxing-first-live/countdown-one.png": {
+    "original": 3110056,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 200956
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 56290
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 56290
+    }
+  },
+  "assets/meilixiuxing-first-live/countdown-today.png": {
+    "original": 3149997,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 183078
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 58232
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 58232
+    }
+  },
+  "assets/meilixiuxing-first-live/live-h5-page.png": {
+    "original": 755602,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 137074
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 107452
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 107452
+    }
+  },
+  "assets/meilixiuxing-first-live/banner-live-h5.png": {
+    "original": 379781,
+    ".webp": {
+      "width": 750,
+      "height": 500,
+      "bytes": 57522
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 427,
+      "bytes": 41600
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 427,
+      "bytes": 41600
+    }
+  },
+  "assets/meilixiuxing-first-live/guest-suda.png": {
+    "original": 84927,
+    ".webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 13380
+    },
+    ".small.webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 13380
+    },
+    ".preview.webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 13380
+    }
+  },
+  "assets/meilixiuxing-first-live/full-page.png": {
+    "original": 2336629,
+    ".webp": {
+      "width": 750,
+      "height": 9202,
+      "bytes": 640356
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 7852,
+      "bytes": 511462
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 7852,
+      "bytes": 511462
+    }
+  },
+  "assets/meilixiuxing-first-live/guest-erhuo.png": {
+    "original": 118938,
+    ".webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 20128
+    },
+    ".small.webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 20128
+    },
+    ".preview.webp": {
+      "width": 480,
+      "height": 480,
+      "bytes": 20128
+    }
+  },
+  "assets/calvin-klein/membership-launch.png": {
+    "original": 4650193,
+    ".webp": {
+      "width": 1125,
+      "height": 6162,
+      "bytes": 329002
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3505,
+      "bytes": 146480
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3505,
+      "bytes": 146480
+    }
+  },
+  "assets/calvin-klein/task-interaction.png": {
+    "original": 1388046,
+    ".webp": {
+      "width": 750,
+      "height": 3690,
+      "bytes": 157762
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3149,
+      "bytes": 129626
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3149,
+      "bytes": 129626
+    }
+  },
+  "assets/calvin-klein/reward-tasks.png": {
+    "original": 3146620,
+    ".webp": {
+      "width": 750,
+      "height": 3972,
+      "bytes": 354024
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3389,
+      "bytes": 283108
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3389,
+      "bytes": 283108
+    }
+  },
+  "assets/calvin-klein/student-benefits.png": {
+    "original": 2008433,
+    ".webp": {
+      "width": 750,
+      "height": 3606,
+      "bytes": 171110
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3077,
+      "bytes": 139838
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3077,
+      "bytes": 139838
+    }
+  },
+  "assets/calvin-klein/ck-new-year-box.png": {
+    "original": 2290375,
+    ".webp": {
+      "width": 750,
+      "height": 5170,
+      "bytes": 204284
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4412,
+      "bytes": 167716
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4412,
+      "bytes": 167716
+    }
+  },
+  "assets/calvin-klein/ck-shadow-style.png": {
+    "original": 2412749,
+    ".webp": {
+      "width": 750,
+      "height": 5142,
+      "bytes": 382278
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4388,
+      "bytes": 289970
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4388,
+      "bytes": 289970
+    }
+  },
+  "assets/calvin-klein/event-poster.png": {
+    "original": 15729983,
+    ".webp": {
+      "width": 1440,
+      "height": 2143,
+      "bytes": 880076
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 952,
+      "bytes": 250174
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 952,
+      "bytes": 250174
+    }
+  },
+  "assets/calvin-klein/dance-up.png": {
+    "original": 1136619,
+    ".webp": {
+      "width": 750,
+      "height": 2584,
+      "bytes": 111890
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 2205,
+      "bytes": 88930
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 2205,
+      "bytes": 88930
+    }
+  },
+  "assets/calvin-klein/romantic-summer.png": {
+    "original": 2832316,
+    ".webp": {
+      "width": 750,
+      "height": 3590,
+      "bytes": 358732
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3063,
+      "bytes": 276940
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3063,
+      "bytes": 276940
+    }
+  },
+  "assets/calvin-klein/ck-love-attraction.png": {
+    "original": 5029000,
+    ".webp": {
+      "width": 750,
+      "height": 5854,
+      "bytes": 355808
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4995,
+      "bytes": 256310
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4995,
+      "bytes": 256310
+    }
+  },
+  "assets/calvin-klein/ck-style-map.png": {
+    "original": 1247378,
+    ".webp": {
+      "width": 750,
+      "height": 6090,
+      "bytes": 230926
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 5197,
+      "bytes": 195886
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 5197,
+      "bytes": 195886
+    }
+  },
+  "assets/calvin-klein/new-year-luck.png": {
+    "original": 1988044,
+    ".webp": {
+      "width": 750,
+      "height": 4764,
+      "bytes": 151688
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4065,
+      "bytes": 123196
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4065,
+      "bytes": 123196
+    }
+  },
+  "assets/calvin-klein/ck-heartbeat.png": {
+    "original": 2331374,
+    ".webp": {
+      "width": 750,
+      "height": 5590,
+      "bytes": 198904
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4770,
+      "bytes": 163110
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4770,
+      "bytes": 163110
+    }
+  },
+  "assets/calvin-klein/ck-her-focus.png": {
+    "original": 2273559,
+    ".webp": {
+      "width": 750,
+      "height": 5500,
+      "bytes": 155340
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 4693,
+      "bytes": 127262
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 4693,
+      "bytes": 127262
+    }
+  },
+  "assets/calvin-klein/monthly-picks.png": {
+    "original": 3570877,
+    ".webp": {
+      "width": 750,
+      "height": 4166,
+      "bytes": 223802
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 3555,
+      "bytes": 174650
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 3555,
+      "bytes": 174650
+    }
+  },
+  "assets/alipay-nana/nana-concept.png": {
+    "original": 3127866,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 94042
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 34918
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 34918
+    }
+  },
+  "assets/alipay-nana/nana-code.png": {
+    "original": 3065779,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 82016
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 31966
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 31966
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-09-assemble.png": {
+    "original": 1545465,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 91284
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 72270
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 72270
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-13-share.png": {
+    "original": 897302,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 66398
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 53326
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 53326
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-05-task-tip.png": {
+    "original": 1489364,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 90570
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71552
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 71552
+    }
+  },
+  "assets/meilixiuxing-christmas/card-base.png": {
+    "original": 16145,
+    ".webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2556
+    },
+    ".small.webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2556
+    },
+    ".preview.webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2556
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-16-help-fail.png": {
+    "original": 955960,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 49774
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 40422
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 40422
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-feed.png": {
+    "original": 487471,
+    ".webp": {
+      "width": 470,
+      "height": 634,
+      "bytes": 56968
+    },
+    ".small.webp": {
+      "width": 470,
+      "height": 634,
+      "bytes": 56968
+    },
+    ".preview.webp": {
+      "width": 470,
+      "height": 634,
+      "bytes": 56968
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-12-certificate.png": {
+    "original": 1375637,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 99158
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 80104
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 80104
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-hot.png": {
+    "original": 394643,
+    ".webp": {
+      "width": 534,
+      "height": 534,
+      "bytes": 46646
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 534,
+      "bytes": 46646
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 534,
+      "bytes": 46646
+    }
+  },
+  "assets/meilixiuxing-christmas/card-center-gold.png": {
+    "original": 30495,
+    ".webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2820
+    },
+    ".small.webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2820
+    },
+    ".preview.webp": {
+      "width": 93,
+      "height": 161,
+      "bytes": 2820
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-launch.png": {
+    "original": 888066,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 268496
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 126000
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 126000
+    }
+  },
+  "assets/meilixiuxing-christmas/card-achievement-locked.png": {
+    "original": 6257,
+    ".webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1196
+    },
+    ".small.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1196
+    },
+    ".preview.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1196
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-14-friends.png": {
+    "original": 1364529,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 87812
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 70008
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 70008
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-popup.png": {
+    "original": 715528,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 91226
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 79722
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 79722
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-02-briefing.png": {
+    "original": 1342368,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 106690
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 88392
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 88392
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-07-draw.png": {
+    "original": 1498892,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 86882
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68760
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 68760
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-15-help-success.png": {
+    "original": 961393,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 51486
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 41896
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 41896
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-06-task-list.png": {
+    "original": 1241371,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 81936
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 67136
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 67136
+    }
+  },
+  "assets/meilixiuxing-christmas/card-effect-locked.png": {
+    "original": 6265,
+    ".webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1186
+    },
+    ".small.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1186
+    },
+    ".preview.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1186
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-03-verify.png": {
+    "original": 1525518,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 124108
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 100900
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 100900
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-share.png": {
+    "original": 594258,
+    ".webp": {
+      "width": 652,
+      "height": 652,
+      "bytes": 54850
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 52976
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 52976
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-11-prize.png": {
+    "original": 1411836,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 64550
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 51624
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 51624
+    }
+  },
+  "assets/meilixiuxing-christmas/card-quality-locked.png": {
+    "original": 6219,
+    ".webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1206
+    },
+    ".small.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1206
+    },
+    ".preview.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1206
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-message.png": {
+    "original": 120540,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 19556
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 17142
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 17142
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-04-report.png": {
+    "original": 1345177,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 96520
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 77776
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 77776
+    }
+  },
+  "assets/meilixiuxing-christmas/resource-topic.png": {
+    "original": 96329,
+    ".webp": {
+      "width": 702,
+      "height": 200,
+      "bytes": 16346
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 182,
+      "bytes": 14846
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 182,
+      "bytes": 14846
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-08-card-result.png": {
+    "original": 1238308,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 54398
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 43208
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 43208
+    }
+  },
+  "assets/meilixiuxing-christmas/card-feeling-gold.png": {
+    "original": 89730,
+    ".webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4794
+    },
+    ".small.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4794
+    },
+    ".preview.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4794
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-10-assemble-result.png": {
+    "original": 1305845,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 64836
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 51934
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 51934
+    }
+  },
+  "assets/meilixiuxing-christmas/card-effect-gold.png": {
+    "original": 89558,
+    ".webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4748
+    },
+    ".small.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4748
+    },
+    ".preview.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4748
+    }
+  },
+  "assets/meilixiuxing-christmas/card-achievement-gold.png": {
+    "original": 89425,
+    ".webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4728
+    },
+    ".small.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4728
+    },
+    ".preview.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4728
+    }
+  },
+  "assets/meilixiuxing-christmas/card-quality-gold.png": {
+    "original": 89280,
+    ".webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4692
+    },
+    ".small.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4692
+    },
+    ".preview.webp": {
+      "width": 173,
+      "height": 300,
+      "bytes": 4692
+    }
+  },
+  "assets/meilixiuxing-christmas/screen-01-home.png": {
+    "original": 1598137,
+    ".webp": {
+      "width": 750,
+      "height": 1624,
+      "bytes": 137162
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 110236
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 110236
+    }
+  },
+  "assets/meilixiuxing-christmas/card-feeling-locked.png": {
+    "original": 6303,
+    ".webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1194
+    },
+    ".small.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1194
+    },
+    ".preview.webp": {
+      "width": 57,
+      "height": 100,
+      "bytes": 1194
+    }
+  },
+  "assets/meilixiuxing-medals/line-art.png": {
+    "original": 1432522,
+    ".webp": {
+      "width": 1440,
+      "height": 1468,
+      "bytes": 201600
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 653,
+      "bytes": 80680
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 653,
+      "bytes": 80680
+    }
+  },
+  "assets/meilixiuxing-medals/medal-03.png": {
+    "original": 6874102,
+    ".webp": {
+      "width": 1440,
+      "height": 1482,
+      "bytes": 183550
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 659,
+      "bytes": 69528
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 659,
+      "bytes": 69528
+    }
+  },
+  "assets/meilixiuxing-medals/ui-locked.png": {
+    "original": 11793259,
+    ".webp": {
+      "width": 1440,
+      "height": 2957,
+      "bytes": 163338
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1314,
+      "bytes": 57508
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1314,
+      "bytes": 57508
+    }
+  },
+  "assets/meilixiuxing-medals/medal-02.png": {
+    "original": 6829544,
+    ".webp": {
+      "width": 1440,
+      "height": 1307,
+      "bytes": 184382
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 581,
+      "bytes": 70124
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 581,
+      "bytes": 70124
+    }
+  },
+  "assets/meilixiuxing-medals/medal-01.png": {
+    "original": 6973904,
+    ".webp": {
+      "width": 1440,
+      "height": 1317,
+      "bytes": 197562
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 586,
+      "bytes": 73936
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 586,
+      "bytes": 73936
+    }
+  },
+  "assets/meilixiuxing-medals/medal-05.png": {
+    "original": 8725946,
+    ".webp": {
+      "width": 1440,
+      "height": 1462,
+      "bytes": 208630
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 650,
+      "bytes": 72870
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 650,
+      "bytes": 72870
+    }
+  },
+  "assets/meilixiuxing-medals/medal-10.png": {
+    "original": 7689638,
+    ".webp": {
+      "width": 1440,
+      "height": 1429,
+      "bytes": 257172
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 635,
+      "bytes": 98004
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 635,
+      "bytes": 98004
+    }
+  },
+  "assets/meilixiuxing-medals/medal-04.png": {
+    "original": 8342010,
+    ".webp": {
+      "width": 1440,
+      "height": 1490,
+      "bytes": 248038
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 662,
+      "bytes": 89536
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 662,
+      "bytes": 89536
+    }
+  },
+  "assets/meilixiuxing-medals/medal-06.png": {
+    "original": 7437024,
+    ".webp": {
+      "width": 1440,
+      "height": 1421,
+      "bytes": 188838
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 632,
+      "bytes": 69442
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 632,
+      "bytes": 69442
+    }
+  },
+  "assets/meilixiuxing-medals/medal-07.png": {
+    "original": 7158294,
+    ".webp": {
+      "width": 1440,
+      "height": 1577,
+      "bytes": 194462
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 701,
+      "bytes": 68396
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 701,
+      "bytes": 68396
+    }
+  },
+  "assets/meilixiuxing-medals/detail-finish.png": {
+    "original": 8102811,
+    ".webp": {
+      "width": 1440,
+      "height": 1481,
+      "bytes": 216280
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 658,
+      "bytes": 80838
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 658,
+      "bytes": 80838
+    }
+  },
+  "assets/meilixiuxing-medals/color-exploration.png": {
+    "original": 1983901,
+    ".webp": {
+      "width": 1440,
+      "height": 1467,
+      "bytes": 237080
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 652,
+      "bytes": 90024
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 652,
+      "bytes": 90024
+    }
+  },
+  "assets/meilixiuxing-medals/ui-unlocked.png": {
+    "original": 17608442,
+    ".webp": {
+      "width": 1440,
+      "height": 2957,
+      "bytes": 242756
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1314,
+      "bytes": 83968
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1314,
+      "bytes": 83968
+    }
+  },
+  "assets/meilixiuxing-medals/medal-09.png": {
+    "original": 8048791,
+    ".webp": {
+      "width": 1440,
+      "height": 1451,
+      "bytes": 323306
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 645,
+      "bytes": 120886
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 645,
+      "bytes": 120886
+    }
+  },
+  "assets/meilixiuxing-medals/medal-08.png": {
+    "original": 8003332,
+    ".webp": {
+      "width": 1440,
+      "height": 1298,
+      "bytes": 248022
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 577,
+      "bytes": 92286
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 577,
+      "bytes": 92286
+    }
+  },
+  "assets/meilixiuxing-medals/color-blocking.png": {
+    "original": 3506422,
+    ".webp": {
+      "width": 1440,
+      "height": 1473,
+      "bytes": 202898
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 655,
+      "bytes": 79038
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 655,
+      "bytes": 79038
+    }
+  },
+  "assets/changqingten-english/activity-detail.png": {
+    "original": 2750467,
+    ".webp": {
+      "width": 1440,
+      "height": 4039,
+      "bytes": 149808
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1795,
+      "bytes": 57942
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1795,
+      "bytes": 57942
+    }
+  },
+  "assets/changqingten-english/banner.png": {
+    "original": 2351313,
+    ".webp": {
+      "width": 1440,
+      "height": 502,
+      "bytes": 41530
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 223,
+      "bytes": 16580
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 223,
+      "bytes": 16580
+    }
+  },
+  "assets/changqingten-english/still-life-clay.png": {
+    "original": 2118503,
+    ".webp": {
+      "width": 1440,
+      "height": 1117,
+      "bytes": 30264
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 496,
+      "bytes": 10838
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 496,
+      "bytes": 10838
+    }
+  },
+  "assets/changqingten-english/hero-still-life.png": {
+    "original": 3884456,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 52716
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 19230
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 19230
+    }
+  },
+  "assets/changqingten-english/icon-tv-detail.png": {
+    "original": 291765,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 37700
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 10870
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 10870
+    }
+  },
+  "assets/changqingten-english/icon-tv.png": {
+    "original": 589503,
+    ".webp": {
+      "width": 1140,
+      "height": 925,
+      "bytes": 70030
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 519,
+      "bytes": 37228
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 519,
+      "bytes": 37228
+    }
+  },
+  "assets/changqingten-english/icon-video.png": {
+    "original": 802335,
+    ".webp": {
+      "width": 1440,
+      "height": 714,
+      "bytes": 42076
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 14836
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 14836
+    }
+  },
+  "assets/changqingten-english/icon-game-detail.png": {
+    "original": 254072,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 35604
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 10528
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 10528
+    }
+  },
+  "assets/changqingten-english/icon-follow.png": {
+    "original": 729320,
+    ".webp": {
+      "width": 1440,
+      "height": 712,
+      "bytes": 39414
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 14364
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 14364
+    }
+  },
+  "assets/changqingten-english/icon-game.png": {
+    "original": 673982,
+    ".webp": {
+      "width": 1440,
+      "height": 714,
+      "bytes": 38644
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 13468
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 317,
+      "bytes": 13468
+    }
+  },
+  "assets/changqingten-english/icon-follow-detail.png": {
+    "original": 187518,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 22108
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 6694
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 6694
+    }
+  },
+  "assets/changqingten-english/activity-page.png": {
+    "original": 3350948,
+    ".webp": {
+      "width": 1440,
+      "height": 3232,
+      "bytes": 146582
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1436,
+      "bytes": 54658
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1436,
+      "bytes": 54658
+    }
+  },
+  "assets/changqingten-english/icon-video-detail.png": {
+    "original": 241299,
+    ".webp": {
+      "width": 1440,
+      "height": 1440,
+      "bytes": 29328
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 8386
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 640,
+      "bytes": 8386
+    }
+  },
+  "assets/title-letters/06-n.png": {
+    "original": 169278,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15860
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15860
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15860
+    }
+  },
+  "assets/title-letters/08-c.png": {
+    "original": 177245,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17436
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17436
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17436
+    }
+  },
+  "assets/title-letters/17-r.png": {
+    "original": 137172,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 12818
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 12818
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 12818
+    }
+  },
+  "assets/title-letters/11-s.png": {
+    "original": 150005,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15046
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15046
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15046
+    }
+  },
+  "assets/title-letters/04-i.png": {
+    "original": 91301,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 9196
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 9196
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 9196
+    }
+  },
+  "assets/title-letters/16-e.png": {
+    "original": 150695,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14848
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14848
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14848
+    }
+  },
+  "assets/title-letters/09-r.png": {
+    "original": 144809,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 13380
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 13380
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 13380
+    }
+  },
+  "assets/title-letters/14-a.png": {
+    "original": 173530,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 19026
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 19026
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 19026
+    }
+  },
+  "assets/title-letters/12-s.png": {
+    "original": 158742,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16998
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16998
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16998
+    }
+  },
+  "assets/title-letters/05-g.png": {
+    "original": 181811,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20608
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20608
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20608
+    }
+  },
+  "assets/title-letters/18-s.png": {
+    "original": 175274,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17720
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17720
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17720
+    }
+  },
+  "assets/title-letters/01-D.png": {
+    "original": 199578,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15902
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15902
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 15902
+    }
+  },
+  "assets/title-letters/03-s.png": {
+    "original": 190030,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20524
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20524
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 20524
+    }
+  },
+  "assets/title-letters/10-o.png": {
+    "original": 163649,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16280
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16280
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 16280
+    }
+  },
+  "assets/title-letters/07-a.png": {
+    "original": 184034,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17600
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17600
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 17600
+    }
+  },
+  "assets/title-letters/15-y.png": {
+    "original": 151034,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14696
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14696
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 14696
+    }
+  },
+  "assets/title-letters/13-l.png": {
+    "original": 95242,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 8564
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 8564
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 8564
+    }
+  },
+  "assets/title-letters/02-e.png": {
+    "original": 167998,
+    ".webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 18722
+    },
+    ".small.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 18722
+    },
+    ".preview.webp": {
+      "width": 256,
+      "height": 256,
+      "bytes": 18722
+    }
+  },
+  "assets/meilixiuxing/overview.png": {
+    "original": 2935466,
+    ".webp": {
+      "width": 750,
+      "height": 3088,
+      "bytes": 189010
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 2635,
+      "bytes": 150410
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 2635,
+      "bytes": 150410
+    }
+  },
+  "assets/meilixiuxing/splash.png": {
+    "original": 3105952,
+    ".webp": {
+      "width": 1125,
+      "height": 2436,
+      "bytes": 303810
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 132044
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1386,
+      "bytes": 132044
+    }
+  },
+  "assets/meilixiuxing/feed-banner.png": {
+    "original": 597256,
+    ".webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 80638
+    },
+    ".small.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 80638
+    },
+    ".preview.webp": {
+      "width": 534,
+      "height": 720,
+      "bytes": 80638
+    }
+  },
+  "assets/meilixiuxing/message.png": {
+    "original": 627777,
+    ".webp": {
+      "width": 1080,
+      "height": 440,
+      "bytes": 71820
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 32810
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 261,
+      "bytes": 32810
+    }
+  },
+  "assets/kk-show/hero-cutout.png": {
+    "original": 5898048,
+    ".webp": {
+      "width": 1440,
+      "height": 830,
+      "bytes": 121704
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 369,
+      "bytes": 44650
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 369,
+      "bytes": 44650
+    }
+  },
+  "assets/kk-show/rules.png": {
+    "original": 8285093,
+    ".webp": {
+      "width": 1440,
+      "height": 4042,
+      "bytes": 328190
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1796,
+      "bytes": 117874
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1796,
+      "bytes": 117874
+    }
+  },
+  "assets/kk-show/gift-detail.png": {
+    "original": 7537127,
+    ".webp": {
+      "width": 1440,
+      "height": 3232,
+      "bytes": 270064
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1437,
+      "bytes": 96840
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1437,
+      "bytes": 96840
+    }
+  },
+  "assets/kk-show/banner.png": {
+    "original": 924411,
+    ".webp": {
+      "width": 1440,
+      "height": 420,
+      "bytes": 64312
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 187,
+      "bytes": 22402
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 187,
+      "bytes": 22402
+    }
+  },
+  "assets/kk-show/cta-participate.png": {
+    "original": 304521,
+    ".webp": {
+      "width": 1440,
+      "height": 218,
+      "bytes": 9964
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 97,
+      "bytes": 3550
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 97,
+      "bytes": 3550
+    }
+  },
+  "assets/kk-show/poster.png": {
+    "original": 8312538,
+    ".webp": {
+      "width": 1440,
+      "height": 2559,
+      "bytes": 209260
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1137,
+      "bytes": 72490
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1137,
+      "bytes": 72490
+    }
+  },
+  "assets/kk-show/cta-joined.png": {
+    "original": 149710,
+    ".webp": {
+      "width": 1440,
+      "height": 218,
+      "bytes": 6446
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 97,
+      "bytes": 2220
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 97,
+      "bytes": 2220
+    }
+  },
+  "assets/kk-show/gift-list.png": {
+    "original": 8169577,
+    ".webp": {
+      "width": 1440,
+      "height": 3891,
+      "bytes": 312602
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 1729,
+      "bytes": 112056
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 1729,
+      "bytes": 112056
+    }
+  },
+  "assets/kk-show/cta-service.png": {
+    "original": 626107,
+    ".webp": {
+      "width": 1440,
+      "height": 341,
+      "bytes": 59302
+    },
+    ".small.webp": {
+      "width": 640,
+      "height": 152,
+      "bytes": 19314
+    },
+    ".preview.webp": {
+      "width": 640,
+      "height": 152,
+      "bytes": 19314
+    }
+  }
+}
