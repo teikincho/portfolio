@@ -11,7 +11,10 @@
     '.contact .kicker':'LET’S WORK TOGETHER'
   };
   const cards={
-    'calvin-klein.html':['Calvin Klein Campaign Design','Mobile campaign pages and interactive tasks for student verification, seasonal promotions, styling events, rewards, and membership benefits.'],
+    'calvin-klein.html':['Calvin Klein All in one & Campaign Design','WeChat mini program UI for brand home, product browsing, and community, alongside Calvin Klein membership campaigns and interactive experiences.'],
+    'essilor.html':['Essilor Family Vision & Lens Services','A mobile product experience for family vision records, trend reports, wearer switching, and lens details.'],
+    'after-work-drinks.html':['After Work Drinks Social App','A social app journey from nearby discovery and venue details to messaging, profiles, and account settings.'],
+    'lemon-early-learning.html':['Lemon Early Learning Product Flow','A product flow covering sign-in, course discovery, eligibility checks, booking, payment, orders, and support.'],
     'meilixiuxing.html':['Meili Xiuxing × Douyin Beauty Awards','A black-and-gold awards identity extended across app launch screens, in-app messages, and feed banners.'],
     'meilixiuxing-skin-personality.html':['Skincare Personality Test','An eight-question skincare quiz that turns user preferences into a shareable personalized result.'],
     'meilixiuxing-medals.html':['Meili Xiuxing Achievement Badges','A cohesive enamel and metal badge system, from sketches and color studies to in-app collection screens.'],
@@ -36,7 +39,10 @@
   const pageContent={
     'alipay-egg.html':{title:'Egg Yolk × Alipay Transit Code',intro:'A character-led visual for Alipay transit codes, combining a clear scan entry point with Egg Yolk’s playful personality for everyday journeys.'},
     'alipay-nana.html':{title:'Nana × Alipay Transit Code',intro:'Transit-code illustrations and scan guidance featuring Nana, bringing character personality into a convenient everyday travel scenario.'},
-    'calvin-klein.html':{title:'Calvin Klein Campaign Design',intro:'Mobile campaign pages and interactive tasks for student verification, seasonal promotions, styling events, rewards, and membership benefits. A consistent structure and flexible visual language connect the campaign series.'},
+    'calvin-klein.html':{title:'Calvin Klein All in one & Campaign Design',intro:'WeChat mini program screens for brand home, product browsing, and community, alongside Calvin Klein campaigns involving membership benefits, themed interactions, tasks, and rewards.'},
+    'essilor.html':{title:'Essilor Family Vision & Lens Services',intro:'Mobile screens for family vision care, including wearer switching, trend reports, eye-specific records, lens details, measurement entry, and document upload.'},
+    'after-work-drinks.html':{title:'After Work Drinks · Social App',intro:'A mobile social app experience spanning nearby discovery, venue browsing and reviews, messaging, profiles, and account settings.'},
+    'lemon-early-learning.html':{title:'Lemon Early Learning App · Product Flow',intro:'A product flow covering sign-in and location, course discovery, child information checks, booking and payment, order management, and customer support.'},
     'changqingten-english.html':{title:'Changqing Dad · 3D English Course',intro:'A limited-time course campaign for Huawei users. “Learn for ¥0 by checking in” anchors the experience, supported by course details, purchase rewards, and learning content.'},
     'changqingten-huawei.html':{title:'Changqing Dad × Huawei Course Campaign',intro:'A course campaign for Huawei users. Limited-time coupons lower the first-purchase barrier, while purchase rewards and recommendations guide users from claiming an offer to enrolling.'},
     'changqingten-ip.html':{title:'Changqing Dad Mascot · Xiaoxiao Chang',intro:'A character illustration series for Changqing Dad’s mascot Xiaoxiao Chang. Space, games, nature, and reading themes build a curious, energetic character across varied scenes.'},
@@ -57,6 +63,7 @@
     'weshine-anniversary.html':{title:'Weshine Anniversary IP Collection',intro:'A celebration bringing together character IPs from Shanqu Technology through a group illustration, anniversary artwork, and a playful 3D scene.'}
   };
   const captions={
+    'All in one 首页':'All in one home screen','商品浏览与分类':'Product browsing and categories','社区内容与发现':'Community content and discovery','依视路服务首页':'Essilor service home','家庭视力档案与趋势':'Family vision records and trends','配戴者与镜片详情':'Wearer and lens details','欢迎与登录入口':'Welcome and sign-in','手机号与密码登录':'Phone and password sign-in','发现页与附近内容':'Discovery and nearby content','关注与收藏内容':'Followed and saved content','店铺详情、联系与定位':'Venue details, contact, and location','店铺评论':'Venue reviews','好友消息列表':'Friends inbox','陌生人消息列表':'Strangers inbox','聊天中的店铺推荐':'Venue recommendations in chat','推荐好友与添加状态':'Suggested friends and add states','他人主页与关注入口':'Other profile and follow actions','我的分享':'My posts','我的相册':'My album','消息、播放与隐私设置':'Messaging, playback, and privacy settings','柠檬早教 App 产品流程图':'Lemon Early Learning App product flow',
     '查看大图 ↗':'View full size ↗','名片正面 · 身份信息':'Business card front · Identity','名片背面 · 联系方式与二维码':'Business card back · Contact and QR code',
     '太空探索 · 角色主题插画':'Space exploration · Character illustration','游戏玩家 · 角色主题插画':'Gamer · Character illustration','自然探索 · 角色主题插画':'Nature exploration · Character illustration','星星与阅读 · 角色主题插画':'Stars and reading · Character illustration','活力日常 · 角色主题插画':'Everyday energy · Character illustration','小小常宇航员 · 角色主题插画':'Xiaoxiao Chang the astronaut · Character illustration',
     '主题插画 · 联名视觉概念':'Key illustration · Collaboration concept','乘车码 · 扫码引导视觉':'Transit code · Scan guidance','项目主视觉与榜单页面':'Campaign key visual and ranking pages','开屏 · 活动主视觉延展':'Launch screen · Campaign visual','站内信 · 金榜盛典传播':'In-app message · Awards promotion',
@@ -67,10 +74,13 @@
     '初始状态':'Initial state','解锁状态':'Unlocked state','主题图形 · 保护地球计划':'Campaign graphic · Protect the Earth','联名包装 · 主题插画':'Collaboration packaging · Illustration','包装应用 · 系列视觉展示':'Packaging application · Series visuals','包装标签 · 图形延展':'Packaging label · Graphic extension'
   };
   const sectionTitles={
+    'essilor.html':['Family vision records and lens services'],
+    'after-work-drinks.html':['Discover nearby content and places','Review venue details and comments','Move from inboxes into conversations','Manage friends, personal content, and settings'],
+    'lemon-early-learning.html':['From sign-in to course services'],
     'kk-keyboard-ip.html':['From a responsive screen to a companion robot','Orthographic views define the character structure','Color, silhouette, and linework protect character recognition','Turn a character into a production-ready design asset'],
     'kk-show.html':['Connect pre-launch and launch through reservations, gifts, and reminders','Limited gifts give users a new look to look forward to','Explain the participation rules and qualification steps','Campaign placements make the next action clear'],
     'changqingten-huawei.html':['Connect offers, course purchase, and a prize draw into one journey','Make the prize draw the next step after purchase','Use a bright family-learning visual system across placements'],
-    'changqingten-english.html':['Build a clear course-purchase journey from campaign entry to rewards','Turn course benefits into clear, actionable offers','Use 3D icons to describe three learning experiences','Unify campaign pages, banners, and visual assets'],
+    'changqingten-english.html':['Build a clear course-purchase journey from campaign entry to rewards','Turn course benefits into clear, actionable offers','Compare four 2D illustrations with their matching 3D icons','Unify campaign pages, banners, and visual assets'],
     'changqingten-ip.html':[],
     'meilixiuxing-routine.html':['From choosing skincare products to a personalized routine','Turn skincare knowledge into a clear interactive journey','Use states and feedback to make interactions easier to understand','Unify campaign touchpoints from loading to rewards'],
     'meilixiuxing-skin-personality.html':['Test flow and interaction','Personality result cards and interface details','Illustration assets and interface design','Entry points and campaign placements'],
@@ -93,13 +103,14 @@
   const setText=(selector,value)=>{const el=document.querySelector(selector);if(el){if(!el.dataset.i18nZh)el.dataset.i18nZh=el.innerHTML;el.innerHTML=value;}};
   const setCardText=(href,index,value)=>{const card=document.querySelector(`.works a[href="${href}"]`);if(card){const title=card.querySelector('h3'),desc=card.querySelector('.case-overlay p'),brand=card.querySelector('.card-top span:nth-child(2)');if(title)title.textContent=value[0];if(desc)desc.textContent=value[1];if(brand&&index)brand.textContent=index;}};
   const apply=()=>{
+    document.querySelectorAll('[data-zh][data-en]').forEach(el=>{el.textContent=english?el.dataset.en:el.dataset.zh;});document.querySelectorAll('img[data-alt-zh][data-alt-en]').forEach(el=>{el.alt=english?(captions[el.dataset.altZh]||el.dataset.altEn):el.dataset.altZh;});
     document.documentElement.lang=english?'en':'zh-CN';document.body.classList.toggle('lang-en',english);
     const button=document.querySelector('.language-toggle');if(button){button.textContent=english?'中文':'EN';button.setAttribute('aria-label',english?'Switch to Chinese':'Switch to English');}
     const navLinks=document.querySelector('.navlinks');
     if(home){
       const links=navLinks?[...navLinks.querySelectorAll('a')]:[];
       if(english){Object.entries(homeText).forEach(([s,v])=>setText(s,v));
-        const cardBrand={'calvin-klein.html':'2024—NOW · Yingmeng Tech','meilixiuxing.html':'2023 · Meili Xiuxing','meilixiuxing-skin-personality.html':'2024 · Meili Xiuxing','meilixiuxing-medals.html':'Meili Xiuxing','meilixiuxing-b5-challenge.html':'Meili Xiuxing','meilixiuxing-routine.html':'Meili Xiuxing','meilixiuxing-annual.html':'2023 · Meili Xiuxing','meilixiuxing-christmas.html':'2023 · Meili Xiuxing','meilixiuxing-first-live.html':'2023 · Meili Xiuxing','meilixiuxing-1111-ranking.html':'2023 · Meili Xiuxing','meilixiuxing-scent-partners.html':'2023 · Meili Xiuxing','shanqu-business-card.html':'Shanqu Technology','changqingten-huawei.html':'Changqing Dad × Huawei','changqingten-english.html':'Changqing Dad','changqingten-ip.html':'Changqing Dad','kk-show.html':'FlashFun · KK Keyboard','kk-keyboard-ip.html':'FlashFun · KK Keyboard','weshine-anniversary.html':'FlashFun · Weshine','oatly-earth.html':'FlashFun · OATLY','alipay-nana.html':'FlashFun · Alipay','alipay-egg.html':'FlashFun · Alipay'};
+        const cardBrand={'calvin-klein.html':'2024—NOW · Yingmeng Tech','essilor.html':'Essilor','after-work-drinks.html':'Social App','lemon-early-learning.html':'Product Flow','meilixiuxing.html':'2023 · Meili Xiuxing','meilixiuxing-skin-personality.html':'2024 · Meili Xiuxing','meilixiuxing-medals.html':'Meili Xiuxing','meilixiuxing-b5-challenge.html':'Meili Xiuxing','meilixiuxing-routine.html':'Meili Xiuxing','meilixiuxing-annual.html':'2023 · Meili Xiuxing','meilixiuxing-christmas.html':'2023 · Meili Xiuxing','meilixiuxing-first-live.html':'2023 · Meili Xiuxing','meilixiuxing-1111-ranking.html':'2023 · Meili Xiuxing','meilixiuxing-scent-partners.html':'2023 · Meili Xiuxing','shanqu-business-card.html':'Shanqu Technology','changqingten-huawei.html':'Changqing Dad × Huawei','changqingten-english.html':'Changqing Dad','changqingten-ip.html':'Changqing Dad','kk-show.html':'FlashFun · KK Keyboard','kk-keyboard-ip.html':'FlashFun · KK Keyboard','weshine-anniversary.html':'FlashFun · Weshine','oatly-earth.html':'FlashFun · OATLY','alipay-nana.html':'FlashFun · Alipay','alipay-egg.html':'FlashFun · Alipay'};
         Object.entries(cards).forEach(([href,value])=>setCardText(href,cardBrand[href],value));
         links.forEach((a,i)=>a.textContent=['Works','About','Experience','Contact'][i]||a.textContent);
         const rows=document.querySelectorAll('#experience .row');
