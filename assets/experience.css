@@ -2,3 +2,5 @@
 /* Project detail artwork always keeps its source proportions. Homepage cards may crop covers intentionally. */
 body:not(:has(#work)) img{height:auto!important;max-height:none!important;object-fit:contain!important}
 @media(max-width:700px){.ux-guide-grid{grid-template-columns:1fr;gap:24px}
+
+}
