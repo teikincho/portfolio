@@ -135,7 +135,10 @@
       }
     }
   };
-  document.querySelectorAll('nav').forEach(nav=>{if(!nav.querySelector('.language-toggle')){const button=document.createElement('button');button.type='button';button.className='language-toggle';button.addEventListener('click',()=>{const next=english?'zh':'en';localStorage.setItem('portfolio-language',next);const url=new URL(location.href);url.searchParams.set('lang',next);location.replace(url.href);});nav.append(button);}});
+  document.querySelectorAll('nav').forEach(nav=>{if(!nav.querySelector('.language-toggle')){const button=document.createElement('button');button.type='button';button.className='language-toggle';nav.append(button);}});
+  const restorePosition=()=>{const saved=sessionStorage.getItem('portfolio-language-scroll');if(!saved)return;sessionStorage.removeItem('portfolio-language-scroll');try{const state=JSON.parse(saved);const url=new URL(location.href);url.hash=state.hash||'';history.replaceState(history.state,'',url.href);const restore=()=>window.scrollTo(0,state.y||0);requestAnimationFrame(()=>{restore();setTimeout(restore,120);});}catch{sessionStorage.removeItem('portfolio-language-scroll');}};
+  restorePosition();
+  document.querySelectorAll('.language-toggle').forEach(button=>button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();const next=english?'zh':'en';sessionStorage.setItem('portfolio-language-scroll',JSON.stringify({y:window.scrollY,hash:location.hash}));localStorage.setItem('portfolio-language',next);const url=new URL(location.href);url.searchParams.set('lang',next);url.hash='';location.replace(url.href);}));
   const style=document.createElement('style');style.textContent='.language-toggle{margin-left:18px;padding:7px 12px;border:1px solid #c9c9c4;border-radius:999px;background:transparent;color:inherit;font:inherit;font-size:12px;line-height:1.2;cursor:pointer;white-space:nowrap}.language-toggle:hover{background:#111;color:#fff;border-color:#111}.navlinks .language-toggle{margin-left:0}@media(max-width:800px){.language-toggle{margin-left:10px;padding:6px 9px}.navlinks{align-items:center}}';document.head.append(style);
   apply();
 })();
