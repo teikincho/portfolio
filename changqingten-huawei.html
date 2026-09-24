@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>常青藤爸爸 × 华为联运新品上新｜张棣槿作品集</title>
+  <style>
+    :root { --ink:#173426; --muted:#547064; --green:#249f22; --deep:#087b20; --mint:#77ded0; --lime:#dff49d; --orange:#ff9d15; --cream:#fffdf4; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:#f4fff7; font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif; }
+    a { color:inherit; text-decoration:none; }
+    .nav { height:72px; padding:0 clamp(24px,6vw,96px); display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid #d8eee0; background:rgba(255,255,255,.9); position:sticky; top:0; z-index:10; backdrop-filter:blur(16px); }
+    .brand { font-weight:800; letter-spacing:.04em; }
+    .back { font-size:14px; color:var(--muted); }
+    .hero { min-height:610px; padding:clamp(56px,8vw,120px) clamp(24px,7vw,112px); display:grid; grid-template-columns:minmax(0,1fr) minmax(360px,.9fr); align-items:center; gap:64px; overflow:hidden; background:radial-gradient(circle at 82% 20%,#f7ffbb 0 10%,transparent 28%),linear-gradient(135deg,#d9fff3,#78dacb 55%,#4dbf69); }
+    .eyebrow { display:inline-block; padding:9px 13px; border-radius:999px; background:#fff126; color:#18351a; font-weight:800; font-size:12px; letter-spacing:.09em; }
+    h1 { max-width:720px; margin:24px 0 22px; font-size:clamp(42px,6.2vw,86px); line-height:1.05; letter-spacing:-.07em; }
+    h1 em { color:var(--green); font-style:normal; }
+    .hero p { max-width:560px; margin:0; font-size:17px; line-height:1.9; color:#315447; }
+    .meta { margin-top:32px; display:flex; flex-wrap:wrap; gap:9px; }
+    .meta span { padding:9px 12px; color:#0a6c28; background:rgba(255,255,255,.72); border:1px solid rgba(255,255,255,.8); border-radius:99px; font-size:13px; }
+    .hero-art { min-height:460px; position:relative; display:flex; align-items:center; justify-content:center; }
+    .hero-art::before { content:""; position:absolute; width:min(42vw,490px); height:min(42vw,490px); border-radius:50%; background:#f5ffca; filter:blur(1px); }
+    .hero-art img { position:relative; width:min(100%,520px); max-height:520px; object-fit:contain; filter:drop-shadow(0 26px 30px rgba(17,98,51,.24)); }
+    main { max-width:1240px; margin:auto; padding:116px 28px 150px; }
+    .section-label { color:var(--green); font-size:12px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; }
+    h2 { margin:14px 0 18px; max-width:760px; font-size:clamp(30px,4.2vw,54px); line-height:1.18; letter-spacing:-.055em; }
+    .lead { max-width:700px; color:var(--muted); font-size:16px; line-height:1.9; }
+    .flow { margin:44px 0 74px; padding:24px; display:flex; gap:9px; align-items:stretch; overflow-x:auto; border-radius:22px; background:#e1f8e9; }
+    .flow-item { min-width:132px; flex:1; padding:17px 15px; border-radius:16px; background:#fff; font-size:14px; font-weight:800; text-align:center; box-shadow:0 8px 18px rgba(29,121,63,.08); }
+    .flow-arrow { align-self:center; color:var(--green); font-size:24px; font-weight:900; }
+    .screens { display:grid; grid-template-columns:1.2fr .8fr; gap:24px; }
+    .screen { overflow:hidden; border:1px solid #d8eee0; border-radius:26px; background:#fff; box-shadow:0 15px 35px rgba(21,111,54,.08); }
+    .screen-copy { padding:23px 25px 19px; }
+    .screen-copy b { display:block; margin-bottom:6px; font-size:18px; }
+    .screen-copy span { color:var(--muted); font-size:14px; line-height:1.6; }
+    .screen-image { height:438px; padding:18px; display:flex; justify-content:center; align-items:flex-start; background:linear-gradient(145deg,#f6fff5,#d2f4df); }
+    .screen-image img { width:100%; height:100%; object-fit:contain; object-position:top; border-radius:15px; }
+    .screen.wide { display:flex; flex-direction:column; }
+    .screen.wide .screen-image { background:#76dccc; }
+    .screen.wide .screen-image img { object-fit:contain; }
+    .draw { margin-top:120px; padding:clamp(28px,5vw,64px); border-radius:34px; color:#fff; background:linear-gradient(135deg,#067f23,#27a82c 54%,#5ec950); overflow:hidden; position:relative; }
+    .draw::after { content:""; position:absolute; inset:auto -90px -160px auto; width:360px; height:360px; border-radius:50%; background:rgba(246,255,154,.18); }
+    .draw-grid { display:grid; grid-template-columns:.85fr 1.15fr; gap:54px; align-items:center; position:relative; z-index:1; }
+    .draw h2 { margin-top:14px; }
+    .draw p { color:rgba(255,255,255,.8); line-height:1.85; }
+    .points { margin:28px 0 0; padding:0; list-style:none; }
+    .points li { padding:13px 0; border-top:1px solid rgba(255,255,255,.22); font-size:15px; }
+    .points li::before { content:"✓"; margin-right:10px; color:#f7fc94; font-weight:900; }
+    .draw-visual { padding:18px; border-radius:24px; background:#fffdf4; box-shadow:0 20px 38px rgba(0,75,24,.28); }
+    .draw-visual img { width:100%; max-height:680px; display:block; object-fit:contain; object-position:top; border-radius:12px; }
+    .resource { margin-top:120px; }
+    .resource-grid { margin-top:38px; display:grid; grid-template-columns:1.2fr .8fr .8fr; gap:18px; }
+    .resource-card { min-height:250px; padding:26px; border-radius:24px; background:#fff; border:1px solid #d8eee0; display:flex; flex-direction:column; justify-content:space-between; overflow:hidden; }
+    .resource-card strong { font-size:19px; }
+    .resource-card p { margin:9px 0 0; color:var(--muted); font-size:14px; line-height:1.65; }
+    .resource-card img { max-width:100%; max-height:150px; margin-top:18px; object-fit:contain; object-position:left bottom; }
+    .resource-card.banner { background:#75dccb; }
+    .resource-card.banner img { width:100%; max-height:170px; }
+    .resource-card.icon { align-items:flex-start; background:#f5ffe9; }
+    .resource-card.icon img { width:142px; }
+    footer { padding:44px 28px; text-align:center; color:#6d897a; border-top:1px solid #d8eee0; font-size:13px; }
+    @media (max-width:760px) { .nav { height:62px; } .hero { grid-template-columns:1fr; gap:14px; min-height:auto; padding:56px 24px 38px; } .hero-art { min-height:330px; } .hero-art img { max-height:390px; } main { padding:78px 20px 100px; } .screens,.draw-grid,.resource-grid { grid-template-columns:1fr; } .screen-image { height:360px; } .flow { margin-bottom:54px; padding:16px; } .flow-arrow { display:none; } .flow-item { min-width:122px; } .draw { margin-top:78px; } .resource { margin-top:78px; } }
+  </style>
+<script src="assets/i18n.js" defer></script></head>
+<body>
+  <nav class="nav"><a class="brand" href="index.html#work">张棣槿 / Portfolio</a><a class="back" href="index.html#work">← 返回作品列表</a></nav>
+  <header class="hero">
+    <div>
+      <span class="eyebrow">HUAWEI USER EXCLUSIVE</span>
+      <h1>常青藤爸爸 × 华为<br><em>联运新品上新</em></h1>
+      <p>为华为用户策划课程联运活动，以限时优惠券降低首次购买门槛，再通过满额抽奖和课程推荐，推动从领取福利到完成购课的连续转化。</p>
+      <div class="meta"><span>常青藤爸爸 × 华为</span><span>H5 活动策划 / 视觉设计</span><span>课程联运</span><span>2021</span></div>
+    </div>
+    <div class="hero-art"><img src="assets/changqingten-huawei/home.png" alt="华为上好课大奖转回家活动首页"></div>
+  </header>
+  <main>
+    <section>
+      <div class="section-label">01 / User Journey</div>
+      <h2>用优惠、购课与抽奖串联一次完整参与路径</h2>
+      <p class="lead">首页清晰呈现华为用户专享的优惠力度和活动流程。用户先领取福利券，再进入意向课程选购；支付成功后获得抽奖机会，最后回到课程推荐继续浏览。</p>
+      <div class="flow"><div class="flow-item">活动入口</div><div class="flow-arrow">→</div><div class="flow-item">领取优惠券</div><div class="flow-arrow">→</div><div class="flow-item">挑选课程</div><div class="flow-arrow">→</div><div class="flow-item">完成购课</div><div class="flow-arrow">→</div><div class="flow-item">参与抽奖</div><div class="flow-arrow">→</div><div class="flow-item">查看奖品</div></div>
+      <div class="screens">
+        <article class="screen"><div class="screen-image"><img src="assets/changqingten-huawei/home.png" alt="活动首页与优惠券入口"></div><div class="screen-copy"><b>01 · 活动入口与优惠领取</b><span>首页以 345 元限时优惠券、活动时间和四步流程建立用户对福利与参与方式的快速理解。</span></div></article>
+        <article class="screen wide"><div class="screen-image"><img src="assets/changqingten-huawei/huawei-banner.png" alt="华为用户专享活动横幅"></div><div class="screen-copy"><b>02 · 信息流资源位</b><span>横幅将「华为上好课」与限时领券利益点浓缩为一次点击入口，承接站内信息流曝光。</span></div></article>
+      </div>
+    </section>
+    <section class="draw">
+      <div class="draw-grid">
+        <div><div class="section-label" style="color:#f7fc94">02 / Purchase & Draw</div><h2>购课后，抽奖成为下一步行动</h2><p>活动规则将每满 88 元购课与一次转盘机会绑定。抽奖区同时展示奖池、中奖动态、剩余机会和奖品入口，让支付完成后的反馈直接可见。</p><ul class="points"><li>满额购课后解锁抽奖机会</li><li>九宫格奖池突出“中奖率 100%”</li><li>“我的奖品”承接奖品领取与查看</li><li>抽奖下方继续衔接课程推荐</li></ul></div>
+        <div class="draw-visual"><img src="assets/changqingten-huawei/draw-page.png" alt="购课抽奖与课程推荐页面"></div>
+      </div>
+    </section>
+    <section class="resource">
+      <div class="section-label">03 / Campaign Assets</div>
+      <h2>活动页与资源位统一为明快的亲子学习视觉</h2>
+      <div class="resource-grid">
+        <article class="resource-card banner"><div><strong>信息流 Banner</strong><p>大标题、优惠数字与飞行小车角色在横向资源位内快速传达华为专享福利。</p></div><img src="assets/changqingten-huawei/huawei-banner.png" alt="华为联运信息流横幅"></article>
+        <article class="resource-card icon"><div><strong>0 元秒杀入口</strong><p>圆形图标作为高辨识度快捷入口，提示限时秒杀权益。</p></div><img src="assets/changqingten-huawei/zero-sale.png" alt="0元秒杀图标"></article>
+        <article class="resource-card"><div><strong>活动内容承接</strong><p>从福利券、购课抽奖到推荐课程，页面在每个阶段保留下一步明确操作。</p></div><img src="assets/changqingten-huawei/draw-page.png" alt="活动抽奖页面缩略图"></article>
+      </div>
+    </section>
+  </main>
+  <footer>© 张棣槿 · 常青藤爸爸 × 华为联运新品上新活动</footer>
+</body>
+</html>
+<style>
+body{background:#fff}
+.hero{background:#fff;border-bottom:1px solid #d8eee0}
+.hero-art::before{display:none}
+.hero-art img{filter:none}
+</style>
