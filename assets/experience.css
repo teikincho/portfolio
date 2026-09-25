@@ -1,6 +1,6 @@
 .work-filters{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 24px}.work-filters button{font:inherit;font-size:13px;border:1px solid #d4d4cf;border-radius:999px;padding:10px 16px;background:transparent;color:#555;cursor:pointer}.work-filters button[aria-pressed=true]{background:#111;color:#fff;border-color:#111}.work-filters button:focus-visible{outline:2px solid #4169ed;outline-offset:3px}.works>[hidden]{display:none!important}.ux-card-label{display:inline-block;font-size:10px;letter-spacing:.08em;margin-bottom:12px;padding:5px 8px;border:1px solid #ffffff80;border-radius:3px;color:#fff;background:#1116}.ux-guide{max-width:1184px;margin:0 auto 48px;padding:28px 0;border-top:1px solid #d8d8d2;border-bottom:1px solid #d8d8d2}.ux-eyebrow{font-size:11px!important;letter-spacing:.08em;line-height:1.6;margin:0 0 24px!important;color:#666}.ux-guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}.ux-guide-grid>div{min-width:0}.ux-number{font-size:10px;color:#777;letter-spacing:.06em}.ux-guide h3{font-size:19px;line-height:1.4;margin:12px 0;color:inherit}.ux-guide-grid p{font-size:14px;line-height:1.8;color:#555;margin:0}
 /* Project detail artwork always keeps its source proportions. Homepage cards may crop covers intentionally. */
-body:not(:has(#work)) img{height:auto!important;max-height:none!important;object-fit:contain!important}
+body:not(:has(#work)) img{height:auto!important;object-fit:contain!important}
 @media(max-width:700px){.ux-guide-grid{grid-template-columns:1fr;gap:24px}
 
 }
